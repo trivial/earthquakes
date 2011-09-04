@@ -1,0 +1,1 @@
+earthquakes = rule('http://earthquake.usgs.gov/earthquakes/catalogs/eqs7day-M1.txt', 'earthquakes')
